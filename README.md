@@ -21,4 +21,5 @@ You can also try to install julia too by installing [juliaup]. Instructions for 
 
 - [ ] use REPL std as seen in https://docs.julialang.org/en/v1/stdlib/REPL
 - [ ] add CONTRIBUTING.md
+- [ ] add tests and CI
 - [ ] Submit package to the General registry
