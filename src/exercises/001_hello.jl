@@ -10,5 +10,5 @@
 #
 
 function hello()
-  println("Hello world')
+  println("Hello world!')
 end
